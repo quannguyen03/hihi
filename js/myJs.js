@@ -2,7 +2,7 @@ const textConfig = {
   text1: "Helloooo!",
   text2: "I have something to ask you. Be honest :)",
   text3: "Do you have a crush on me?._.",
-  text4: "If you exit this webstite, then you do have a crush on me:)",
+  text4: "If you exit this website, then you do have a crush on me:)",
   text5: "No, sorry (:",
   text6: "Yes, I do <333",
   text7: "A reason why you have a crush on me",
