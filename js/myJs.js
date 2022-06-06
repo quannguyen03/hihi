@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.instagram.com/_quannng_";
+            window.location = "https://www.instagram.com/_qhnguyeenx_";
           },
         });
       }
