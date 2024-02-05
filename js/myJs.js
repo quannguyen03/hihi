@@ -1,17 +1,16 @@
 const textConfig = {
-  text1: "Helloooo!",
-  text2: "I have something to ask you. Be honest :)",
-  text3: "Do you have a crush on me?._.",
-  text4: "If you exit this website, then you do have a crush on me:)",
-  text5: "No, sorry (:",
-  text6: "Yes, I do <333",
-  text7: "A reason why you have a crush on me",
-  text8: "Send to me <3",
-  text9: "Because you are cute <3333333333333333333",
-  text10: "Aww, thank you:))",
-  text11:
-    "DM me soon, I will wait for your DM :)",
-  text12: "Okayy!",
+  text1: "Hello bé iuuuu",
+  text2: "Anh muốn hỏi bé cái này:)",
+  text3: "Bé làm valentine của anh nhaaaa",
+  text4: "❤️",
+  text5: "Hong chịu âuuu",
+  text6: "Dạaaaa",
+  text7: "Trên thế giới hơn 8 tỉ người mà sao e lại yêu a 🥰",
+  text8: "Gửi anh ❤️",
+  text9: "Tại a iu đẹp trai với cute nhấtttt",
+  text10: "Awww e iu của a cũng xinh với dth nhấtttt 😚😚😚",
+  text11: "I love you babyyy 😘💕",
+  text12: "I love you tooooo 😘💕",
 };
 
 $(document).ready(function () {
@@ -138,7 +137,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.instagram.com/_qhnguyeenx_";
+            window.location = "https://drive.google.com/file/d/1hygFeZmyKtaQASP9r8_h_FaqoBWoS7dE/view?usp=sharing";
           },
         });
       }
